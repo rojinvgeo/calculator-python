@@ -31,6 +31,4 @@ This project is a basic calculator application built using Python and Tkinter. I
     python src/calculator.py
     ```
 
----
 
-Feel free to add screenshots or more
